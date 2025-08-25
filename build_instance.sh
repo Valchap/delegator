@@ -1,0 +1,1 @@
+tofu apply -target openstack_compute_instance_v2.gpu_instance
